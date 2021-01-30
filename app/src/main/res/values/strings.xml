@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WeRide</string>
+    <string name="home">Home</string>
+    <string name="my_friends">My Friends</string>
+    <string name="my_groups">My Groups</string>
+    <string name="find_friends">Find Friends</string>
+    <string name="messages">Messages</string>
+    <string name="tours">Tours</string>
+    <string name="settings">Settings</string>
+    <string name="username">Username:</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="password">Password...</string>
+    <string name="email">Email...</string>
+    <string name="confirm_password">Confirm Password...</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="login">LOGIN</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register!</string>
+    <string name="login_with">Login with...</string>
+    <string name="register">Register</string>
+    <string name="logo">logo</string>
+    <string name="facebook_logo">facebook_logo</string>
+    <string name="google_logo">google_logo</string>
+    <string name="no_account_register">No Account? Register!</string>
+    <string name="full_name">Full name...</string>
+    <string name="country">Country...</string>
+    <string name="save">Save</string>
+    <string name="logout">Logout</string>
+    <string name="add_new_post">Add new post</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "WeRide"
+include ':app'

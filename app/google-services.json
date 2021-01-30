@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "216672518322",
+    "firebase_url": "https://weride-d1ca0.firebaseio.com",
+    "project_id": "weride-d1ca0",
+    "storage_bucket": "weride-d1ca0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216672518322:android:106a47a5e10ef134e649ab",
+        "android_client_info": {
+          "package_name": "com.example.weride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216672518322-s6rqcl47ojm169lr40leu7m84aijog9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWVj5f71mYz210pa7BhPgJJQQi4L8nboE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216672518322-s6rqcl47ojm169lr40leu7m84aijog9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
